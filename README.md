@@ -14,3 +14,4 @@ Date | Task
 ------------ | ------------
 25/6  []  Basic Pygame 1
 25/6  []  Basic Pygame 2
+26/6  []  Basic Pygame 3 w/ challenges
