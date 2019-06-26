@@ -12,5 +12,5 @@ As you complete a task, add your solution to this repository as a python file an
 
 Date | Task    
 ------------ | ------------
-
-
+25/6  []  Basic Pygame 1
+25/6  []  Basic Pygame 2
